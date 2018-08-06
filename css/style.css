@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css?family=Hanalei+Fill');
+
+
+/* This is a comment
+in CSS*/
+
+/* CSS Syntax 
+
+selector {
+  property: value;
+}*/
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: 'Hanalei Fill', cursive;
+}
+
+figcaption {
+  font-weight: normal;
+  font-size: 0.75em;
+  line-height: 1.5em;
+  font-family: Georgia;
+  color: #F0F000;
+}
+
+.milk-text {
+  font: bold 2.6em 'Hanalei Fill', cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+}
